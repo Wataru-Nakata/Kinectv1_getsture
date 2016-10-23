@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\watar\documents\visual studio 2015\projects\kinect\kinect\main.cpp(35): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  kinect.vcxproj -> c:\Users\watar\documents\visual studio 2015\Projects\kinect\x64\Debug\kinect.exe
+  kinect.vcxproj -> c:\Users\watar\documents\visual studio 2015\Projects\kinect\x64\Debug\kinect.pdb (Full PDB)
